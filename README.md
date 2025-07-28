@@ -53,7 +53,5 @@ This project demonstrates how to containerize a FastAPI application and deploy i
      ```
    - Or port-forward:
      ```sh
-     kubectl port-forward service/fastapi-service 8080:80
-     ```
-     Visit [http://localhost:8080](http://localhost:8080)
+     kubectl port-forward service/fastapi-service xxxxx
 
